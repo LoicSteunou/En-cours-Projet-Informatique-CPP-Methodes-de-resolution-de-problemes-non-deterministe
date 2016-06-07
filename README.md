@@ -6,4 +6,4 @@ Développer des méthodes de résolution de problèmes non déterministe avec so
   - Méthode tabou
   - Recuit simulé
   
-Application à un problème : Le sac à dos
+Application à un problème non déterministe
